@@ -63,8 +63,10 @@
 
 ## 📸 ตัวอย่างการทำงาน (Previews)
 <img width="1282" height="758" alt="image" src="https://github.com/user-attachments/assets/f32722b6-d394-4af6-b6a5-9b7b4fa5d0cf" />
-<video src= "https://github.com/6633215921/Project-Building-3D-Game-Engines-Using-C-And-OpenGL/issues/1#issue-4342240811" >
-</video>
+<video src= "https://github.com/user-attachments/assets/68291c04-5609-41f0-b269-d0613aceb026"></video>
+
+
+
 
 ---
 
