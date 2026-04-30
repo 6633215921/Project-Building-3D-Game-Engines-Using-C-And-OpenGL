@@ -71,3 +71,20 @@
 ---
 
 **ผู้จัดทำ:** วรพล พันทอง (Worapol Punthong)
+
+**Attribution** 
+- Foundaitional Codes : https://learnopengl.com/
+- Texture Sky Box : https://opengameart.org/content/sky-box-sunny-day
+- Height Map : https://www.flickr.com/photos/onformative/5451441370
+- Texture Terrain : https://opengameart.org/
+  - grass : https://opengameart.org/content/grass-1
+  - rock : https://opengameart.org/content/lunar-rock
+  - sand : https://opengameart.org/content/generic-tileable-sand-texture
+  - snow : https://opengameart.org/content/seamless-snow-texture-0
+  - water : https://opengameart.org/content/texture-water
+- Model Boid : https://sketchfab.com/3d-models/flying-bird-eb843194e06d429ebef7dd4aa7e265c1 
+- Model Player : https://sketchfab.com/3d-models/psx-harpy-cc96098b51df4c8eb0da738b34211cbe
+- Audio : mixkit-arcade-retro-game-over-213 : https://mixkit.co/free-sound-effects/video-game/
+
+
+
