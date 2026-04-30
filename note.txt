@@ -1,0 +1,9 @@
+1] ย้ายให้ ทั้ง folder resources,shaders ไปอยู่ใน src
+
+2] Open Start Menu พิมพ์หาคำว่า "x64 Native Tools Command Prompt for VS" แล้วเปิดขึ้นมา 
+
+3] รันคำสั่งคอมไพล์:
+    cd เข้าไปที่โฟลเดอร์โปรเจกต์ของคุณ (C:\Users\Worapol\...\src)
+    cl /EHsc /MD /DGLFW_EXPOSE_NATIVE_WIN32 /DGLFW_EXPOSE_NATIVE_WGL main.cpp glad.c stb_image.cpp imgui\*.cpp /I.\include /link /LIBPATH:.\lib glfw3.lib assimp.lib opengl32.lib user32.lib gdi32.lib shell32.lib winmm.lib /NODEFAULTLIB:MSVCRTD /OUT:FlightSim.exe
+
+4] ได้ FlightSim.exe ย้ายให้ ทั้ง folder resources,shaders และ assimp-vc140-mt.dll ไปอยู่ folder เดียวกับ FlightSim.exe เสมอ
